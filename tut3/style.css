@@ -1,0 +1,26 @@
+.container{
+  text-align: center;   
+}
+
+.heading {
+    color: blueviolet;
+}
+
+.para {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 20px;
+    text-decoration: dashed;
+}
+
+.img {
+    max-width: 400px;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: centered;
+    justify-content: center;
+    align-items: center;
+}
