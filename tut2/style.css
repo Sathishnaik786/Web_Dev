@@ -5,3 +5,14 @@ h1 {
 p {
     color: red;
 }
+
+body{
+    background-color: yellow;
+}
+
+.container {
+    height: 30vh;
+    background-color: black;
+    text-align: center;
+
+}
